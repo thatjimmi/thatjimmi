@@ -18,4 +18,4 @@ I am Full Stack Software Developer at Mjølner Informatics. I love entrepreneurs
 
 </br>
 
-<img  height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatjimmi&show_icons=true&theme=transparent&langs_count=8&title_color=fff&text_color=fff"/>
+<img  height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatjimmi&show_icons=true&bg_color=0D1117&langs_count=8&title_color=fff&text_color=fff"/>
