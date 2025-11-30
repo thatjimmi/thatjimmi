@@ -11,4 +11,3 @@ I am Software Developer at Nitor Energy. I love entrepreneurship, books, and com
 - <img src="./assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I studied IT Architecture.
 - <img src="./assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
 </br>
-<img  height="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatjimmi&show_icons=true&bg_color=0D1117&langs_count=8&title_color=fff&text_color=fff"/>
